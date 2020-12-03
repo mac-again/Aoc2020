@@ -11,3 +11,6 @@ Log.Information("Starting");
 
 Day1.PartA();
 Day1.PartB();
+
+Day2.PartA();
+Day2.PartB();
