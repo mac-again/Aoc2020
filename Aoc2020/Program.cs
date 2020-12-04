@@ -14,3 +14,6 @@ Day1.PartB();
 
 Day2.PartA();
 Day2.PartB();
+
+Day3.PartA();
+Day3.PartB();
